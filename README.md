@@ -15,5 +15,23 @@
 - 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
+
+<h1 align="center">Skills</h1>
+
+
+```json
+{
+    "skills": [
+        "C#",                                   "ASP.NET Core Web API",     "Entity Framework Core",
+        "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
+        ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
+        "Software Engineering Practices",       "Clean Code",               "Unit Testing",
+        "Microservices",                        "Cloud Computing",          "Problem Solving",
+        "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
+        "SQL",                                  "Git",                      "Unix / Linux"
+    ]
+}
+```
+
 [![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff)](https://about.my.id)
 
