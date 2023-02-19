@@ -3,7 +3,6 @@
 </div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=F28A00&width=435&lines=Hey!+You+can+call+me+AJI;I'm+a+mathematics+teacher;I'm+also+an+informatics+teacher)](https://git.io/typing-svg)
-
 <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nrwahyuaji" />
 
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
