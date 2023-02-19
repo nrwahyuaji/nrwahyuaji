@@ -1,4 +1,4 @@
-### Hi, I'm NR Wahyuaji <i>Soemardi</i> 👋
+### Hi, I'm NR <b style="color: grey">Wahyuaji</b> <i style="color: grey">Soemardi</i> 👋
 
 - 🔭 I’m currently working on CS50 Final Project
 - 🌱 I’m currently learning C, Phyton, PHP, HTML, SQL, HTML, CSS, and JavaScript
