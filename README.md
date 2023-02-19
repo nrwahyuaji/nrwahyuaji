@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h2> 
+  <h2>Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h2>
   <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nrwahyuaji" />
 </div>
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=F28A00&center=true&width=435&lines=Hey!+I'm+aji;I'm+a+mathematics+teacher+at+SMAGAM;I'm+also+an+informatics+teacher+at+SMAGAM)](https://git.io/typing-svg)
 
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>CS50 Final Project</b></a>
