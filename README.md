@@ -1,4 +1,4 @@
-### Hi, I'm NR Wahyuaji <i>Soemardi</i> 👋
+### Hi, I'm NR Wahyuaji <i>Soemardi</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">👋
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/">CS50 Final Project</a>
 - 🌱 I’m currently learning Mathematics, Informatics and CS50
 - 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK
