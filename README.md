@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=25&pause=1000&color=D47900&center=true&vCenter=true&width=600&lines=Hi!%F0%9F%91%8B%2C+I'm+NR+Wahyuaji+Soemardi;Mathematics+Teacher;Informatics+Engineering+Teacher" alt="Typing SVG" /></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nr-wahyuaji" /> </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nr-wahyuaji" /> </p>
 
 <h2 align="center">About</h2>
 
@@ -27,6 +27,12 @@
     ]
 }
 ```
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrwahyuaji&theme=codeSTACKr&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrwahyuaji&layout=default&theme=codeSTACKr&hide=html&hide_border=true&card_width=330)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+
 
 <br>
 
