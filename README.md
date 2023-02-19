@@ -8,7 +8,7 @@
 
 <h1 align="center">About</h1>
 
-- 🏫 I'm a `Mathematics and Informatics Engineering Teacher` at SMAGAM
+- 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>`CS50 Final Project`</b></a>
 - 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a>, <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a> and <a href="https://cs50.harvard.edu/indonesia/2023/"><b>`CS50`</b></a>
 - 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK
