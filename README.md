@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=25&pause=1000&color=D47900&center=true&vCenter=true&width=600&lines=Hi!%F0%9F%91%8B%2C+I'm+NR+Wahyuaji+Soemardi;Mathematics+Teacher;Informatics+Engineering+Teacher" alt="Typing SVG" /></a>
 </div>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nr-wahyuaji" /> </p>
 
 <h2 align="center">About</h2>
 
