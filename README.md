@@ -6,11 +6,13 @@
 </div>
 <br>
 
-- 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
+<h1 align="center">About</h1>
+
+- 🏫 I'm a `Mathematics and Informatics Engineering Teacher` at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>CS50 Final Project</b></a>
-- 🌱 I’m currently learning Mathematics, Informatics and CS50
+- 🌱 I’m currently learning Tianocore EDK2, SASS and CS50
 - 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK
-- 💬 Ask me about Geometry, Calculus, Wordpress, and MOODLE
+- 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
 [![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff)](https://about.my.id)
