@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<h1 align="center">About</h1>
+<h2 align="center">About</h2>
 
 - 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>`CS50 Final Project`</b></a>
@@ -16,7 +16,7 @@
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
 <br>
-<h1 align="center">My Points</h1>
+<h2 align="center">My Points</h2>
 
 ```json
 {
