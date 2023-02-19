@@ -14,14 +14,14 @@
 </div>
 
 <br>
-<h2 align="center">About</h2>
+<h2 align="center">About Me</h2>
 
-- 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM
-- 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>`CS50 Final Project`</b></a>
-- 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a>, <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a> and <a href="https://cs50.harvard.edu/indonesia/2023/"><b>`CS50`</b></a>
-- 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK
-- 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE
-- 📫 How to reach me: `contact(at)about(dot)my(dot)id`
+- 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM.
+- 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>`CS50 Final Project`</b></a>.
+- 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a>, <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a> and <a href="https://cs50.harvard.edu/indonesia/2023/"><b>`CS50`</b></a>.
+- 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK.
+- 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE.
+- 📫 How to reach me: `contact(at)about(dot)my(dot)id`.
 
 <br>
 <h2 align="center">My Points</h2>
@@ -36,9 +36,7 @@
 }
 ```
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=330)
-
-<br>
-
-[![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff)](https://about.my.id)
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&background=22272E&stroke=F28A00&ring=F28A00&fire=F28A00&currStreakNum=FFFFFF&sideNums=F28A00&currStreakLabel=FFFFFF&border=F28A00&dates=FFB66ECE"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff" />
+</div>
