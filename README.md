@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nrwahyuaji/nrwahyuaji/main/lgi-img.png" alt="GitHub Computer security" height="200">
+  <img src="https://raw.githubusercontent.com/nrwahyuaji/nrwahyuaji/main/lgi-img.png" alt="GitHub Computer security" height="150">
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=1000&color=D47900&center=true&vCenter=true&width=600&lines=Hi!%F0%9F%91%8B%2C+I'm+AJI;Mathematics+Teacher;Informatics+Engineering+Teacher" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Inconsolata&size=25&pause=1000&color=D47900&center=true&vCenter=true&width=600&lines=Hi!%F0%9F%91%8B%2C+I'm+NR+Wahyuaji+Soemardi;Mathematics+Teacher;Informatics+Engineering+Teacher" alt="Typing SVG" /></a>
 </div>
-
+<br>
 
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>CS50 Final Project</b></a>
