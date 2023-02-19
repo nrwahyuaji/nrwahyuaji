@@ -16,19 +16,16 @@
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
 
-<h1 align="center">Skills</h1>
+<h1 align="center">My Points</h1>
 
 
 ```json
 {
-    "skills": [
-        "C#",                                   "ASP.NET Core Web API",     "Entity Framework Core",
-        "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
-        ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
-        "Software Engineering Practices",       "Clean Code",               "Unit Testing",
-        "Microservices",                        "Cloud Computing",          "Problem Solving",
-        "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
-        "SQL",                                  "Git",                      "Unix / Linux"
+    "points": [
+        "Algebra",        "Office",     "Windows 11",
+        "Geometry",       "Canva",      "MacOS BigSur",
+        "Statistics",     "GeoGebra",   "Ubuntu",
+        "Calculus",       "VSCode",     "CloudLinux"
     ]
 }
 ```
