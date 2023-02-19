@@ -36,10 +36,7 @@
 }
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrwahyuaji&theme=codeSTACKr&show_icons=true&count_private=true&hide_title=true&hide_border=true&card_width=330)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=330)
-
-
 
 <br>
 
