@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.kindpng.com/picc/m/694-6944052_github-octocat-png-github-inspectocat-github-search-transparent.png" alt="Credit: Github Octocat Png Github Inspectocat - Github Search, Transparent Png@kindpng.com">
+  <img src="https://raw.githubusercontent.com/nrwahyuaji/nrwahyuaji/main/lgi-img.png" alt="GitHub Computer security" height="200">
   <h2>Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h2>
 </div>
 
