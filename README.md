@@ -13,3 +13,4 @@
 
 [![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff)](https://about.my.id)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrwahyuaji&layout=compact&theme=dark&bg_color=22272e" alt="NR Wahyuaji Soemardi's Top Languages"/>
