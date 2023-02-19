@@ -18,14 +18,12 @@
 
 <h1 align="center">My Points</h1>
 
-
 ```json
 {
     "points": [
-        "Algebra",        "Office",     "Windows 11",
-        "Geometry",       "Canva",      "MacOS BigSur",
-        "Statistics",     "GeoGebra",   "Ubuntu",
-        "Calculus",       "VSCode",     "CloudLinux"
+        "Algebra",        "Geometry",         "Statistics",     "Calculus",
+        "Office",         "Canva",            "GeoGebra",       "VSCode",
+        "Windows 11",     "MacOS BigSur",     "Ubuntu",         "CloudLinux"
     ]
 }
 ```
