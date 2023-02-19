@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Welcome to my Github profile!</h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+  <h2>Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h2> 
 </div>
 <hr>
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
