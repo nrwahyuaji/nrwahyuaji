@@ -3,7 +3,7 @@
   <h2>Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h2>
 </div>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=F28A00&width=435&lines=Hey!+You+can+call+me+AJI;I'm+a+mathematics+teacher;I'm+also+an+informatics+teacher)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=F28A00&width=435&lines=Hi!%F0%9F%91%8B%2C+I'm+AJI;I'm+a+mathematics+teacher;I'm+also+an+informatics+teacher)](https://git.io/typing-svg)
 <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nrwahyuaji" />
 
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
