@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=nrwahyuaji&label=Profile%20views&color=0e75b6&style=flat" alt="nrwahyuaji" />
 </div>
 
-##
+
 - 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>CS50 Final Project</b></a>
 - 🌱 I’m currently learning Mathematics, Informatics and CS50
