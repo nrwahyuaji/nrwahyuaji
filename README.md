@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm NR Wahyuaji <i>Soemardi</i> 👋
 
 - 🔭 I’m currently working on CS50 Final Project
 - 🌱 I’m currently learning C, Phyton, PHP, HTML, SQL, HTML, CSS, and JavaScript
