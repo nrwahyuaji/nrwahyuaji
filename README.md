@@ -21,9 +21,9 @@
 ```json
 {
     "points": [
-        "Algebra",        "Geometry",         "Statistics",     "Calculus",
-        "Office",         "Canva",            "GeoGebra",       "VSCode",
-        "Windows 11",     "MacOS BigSur",     "Ubuntu",         "CloudLinux"
+        "Algebra",          "Geometry",             "Statistics",         "Calculus",
+        "Office",           "Canva",                "GeoGebra",           "VSCode",
+        "Windows 11",       "MacOS BigSur",         "Ubuntu",             "CloudLinux"
     ]
 }
 ```
