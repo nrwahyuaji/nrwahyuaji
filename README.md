@@ -11,5 +11,5 @@
 - 💬 Ask me about Geometry, Calculus, Wordpress, and MOODLE
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
-[![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://about.my.id)
+[![NR Wahyuaji Soemardi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=181b20&color=fff&line=f28a00&point=f28a00)](https://about.my.id)
 
