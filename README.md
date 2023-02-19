@@ -1,5 +1,8 @@
-### Hi, I'm NR Wahyuaji <i>Soemardi</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
+<div align="center">
+  <h2>Welcome to my Github profile!</h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+</div>
+<hr>
+- 🏫 I'm a `Mathematics and Informatics Teacher` at SMAGAM
 - 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>CS50 Final Project</b></a>
 - 🌱 I’m currently learning Mathematics, Informatics and CS50
 - 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK
