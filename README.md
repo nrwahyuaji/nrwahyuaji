@@ -15,7 +15,7 @@
 - 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`
 
-
+<br>
 <h1 align="center">My Points</h1>
 
 ```json
