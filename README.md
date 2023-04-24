@@ -17,9 +17,9 @@
 <h2 align="center">About Me</h2>
 
 - 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM.
-- 🔭 I’m currently working on <a href="https://cs50.harvard.edu/indonesia/2023/project/"><b>`CS50 Final Project`</b></a>.
-- 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a>, <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a> and <a href="https://cs50.harvard.edu/indonesia/2023/"><b>`CS50`</b></a>.
-- 👯 I’m looking to collaborate on EduTech, Website Creation and TPACK.
+- 🔭 I’m currently working on <a href="https://about.my.id/"><b>`About MyID`</b></a>.
+- 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a>, and <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a>.
+- 👯 I’m looking to collaborate on EduTech, UI Design and Math Edu.
 - 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE.
 - 📫 How to reach me: `contact(at)about(dot)my(dot)id`.
 
