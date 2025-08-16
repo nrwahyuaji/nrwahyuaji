@@ -18,10 +18,7 @@
 
 - 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM.
 - 🔭 I’m currently working on <a href="https://about.my.id/"><b>`About MyID`</b></a>.
-- 🌱 I’m currently learning <a href="https://github.com/edk2-porting"><b>`Tianocore EDK2`</b></a> and <a href="https://dortania.github.io/OpenCore-Install-Guide/"><b>`OpenCore`</b></a>.
 - 👯 I’m looking to collaborate on EduTech, UI Design and Math Edu.
-- 💬 Ask me about Geometry, Linear Algebra, Wordpress, and MOODLE.
-- 📫 How to reach me: `contact(at)about(dot)my(dot)id`.
 
 <br>
 <h2 align="center">My Points</h2>
@@ -29,9 +26,9 @@
 ```json
 {
     "points": [
-        "Algebra",          "Geometry",             "Statistics",         "Calculus",
-        "Office",           "Canva",                "GeoGebra",           "VSCode",
-        "Windows 11",       "MacOS BigSur",         "Ubuntu",             "CloudLinux"
+        "Mathematics",      "Gemini",      "Web Design",      "Photography",
+        "Informatics",      "Canva",       "GeoGebra",        "VSCode",
+        "Web Design",       "Teaching",    "Networking"
     ]
 }
 ```
