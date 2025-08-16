@@ -16,7 +16,7 @@
 <br>
 <h2 align="center">About Me</h2>
 
-- 🏫 I'm a <b>Mathematics and Informatics Engineering Teacher</b> at SMAGAM.
+- 🏫 I'm a <b>Mathematics and Informatics Teacher</b> at SMAGAM.
 - 🔭 I’m currently working on <a href="https://about.my.id/"><b>`About MyID`</b></a>.
 - 👯 I’m looking to collaborate on EduTech, UI Design and Math Edu.
 
