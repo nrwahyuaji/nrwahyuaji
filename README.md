@@ -35,5 +35,4 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&background=22272E&stroke=F28A00&ring=F28A00&fire=F28A00&currStreakNum=FFFFFF&sideNums=F28A00&currStreakLabel=FFFFFF&border=F28A00&dates=FFB66ECE"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nrwahyuaji&hide_border=true&border_radius=5px&bg_color=22272e&color=fff&line=f28a00&point=fff" />
 </div>
