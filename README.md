@@ -16,9 +16,9 @@
 <br>
 <h2 align="center">About Me</h2>
 
-- 🏫 I'm a <b>Mathematics and Informatics Teacher</b> at SMAGAM.
+- 🏫 I'm a <b>Mathematics and ICT Teacher</b> at SMAGAM.
 - 🔭 I’m currently working on <a href="https://about.my.id/"><b>`About MyID`</b></a>.
-- 👯 I’m looking to collaborate on EduTech, UI Design and Math Edu.
+- 👯 I’m looking to collaborate on EduTech, UI Design and Mathematics Education.
 
 <br>
 <h2 align="center">My Points</h2>
@@ -32,7 +32,3 @@
     ]
 }
 ```
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nrwahyuaji&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&background=22272E&stroke=F28A00&ring=F28A00&fire=F28A00&currStreakNum=FFFFFF&sideNums=F28A00&currStreakLabel=FFFFFF&border=F28A00&dates=FFB66ECE"/>
-</div>
